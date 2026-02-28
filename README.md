@@ -16,7 +16,7 @@ Al final de la plantilla encontrará algunos ejemplos para enriquecer su informe
 
 ### Integrantes
 - **PRIMER INTEGRANTE** - Código
-- **SEGUNDO INTEGRANTE** - Código
+- **Nicolás Felipe Saavedra Diaz** - 2202788
 
 Escuela de Ingenierías Eléctrica, Electrónica y de Telecomunicaciones  
 Universidad Industrial de Santander
